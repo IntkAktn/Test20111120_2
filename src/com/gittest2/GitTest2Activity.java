@@ -8,6 +8,7 @@ public class GitTest2Activity extends Activity {
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        //編集しました
         setContentView(R.layout.main);
     }
 }
