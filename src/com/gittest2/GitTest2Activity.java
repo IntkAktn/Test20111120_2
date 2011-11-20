@@ -11,6 +11,7 @@ public class GitTest2Activity extends Activity {
         //編集しました
         //また編集
         //asdghj
+        //111111
         setContentView(R.layout.main);
     }
 }
