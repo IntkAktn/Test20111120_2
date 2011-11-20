@@ -10,6 +10,7 @@ public class GitTest2Activity extends Activity {
         super.onCreate(savedInstanceState);
         //編集しました
         //また編集
+        //asdghj
         setContentView(R.layout.main);
     }
 }
